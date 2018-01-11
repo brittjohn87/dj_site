@@ -1,0 +1,11 @@
+.jumbotron {
+	background-image: url(../images/BMain.jpg);
+	background-size: cover;
+	background-position: center center;
+	height: 675px;
+	margin-bottom: 0px;
+}
+
+.about_me {
+	background-color: black;
+}
