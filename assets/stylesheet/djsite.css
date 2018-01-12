@@ -25,6 +25,34 @@ nav.navbar.navbar-default {
     transform: translatex(-50%);
 }
 
-#aboutme_pic {
+.pics {
 	height: 400px;
+}
+
+.wrapper {
+	padding: 5rem 5rem;
+}
+
+.photoContainer {
+	background-image: url(../images/coolback.jpg);
+	background-size: cover;
+	height: 75%;
+	max-height: 75%;
+	overflow: auto;
+}
+
+.photoContainer_2 {
+	background-image: url(../images/reviews.jpg);
+	background-size: cover;
+	height: 75%;
+	max-height: 75%;
+	overflow: auto;
+}
+
+.photoContainer_3 {
+	background-image: url(../images/headshot.jpg);
+	background-size: cover;
+	height: 75%;
+	max-height: 75%;
+	overflow: auto;
 }
